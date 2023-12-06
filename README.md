@@ -16,17 +16,17 @@ What is the best algorithm that can be used for binary classification in this ca
 
 1. Data collection methodology
 
-Using SpaceX Rest API
+- Using SpaceX Rest API
 
-Using Web Scrapping from Wikipedia
+- Using Web Scrapping from Wikipedia
 
 2. Performed data wrangling
 
-Filtering the data
+- Filtering the data
 
-Dealing with missing values
+- Dealing with missing values
 
-Using One Hot Encoding to prepare the data to a binary classification
+- Using One Hot Encoding to prepare the data to a binary classification
 
 4. Performed exploratory data analysis (EDA) using visualization and SQL
 
@@ -34,4 +34,4 @@ Using One Hot Encoding to prepare the data to a binary classification
 
 6. Performed predictive analysis using classification models
 
-* Building, tuning and evaluation of classification models to ensure the best results
+- Building, tuning and evaluation of classification models to ensure the best results
